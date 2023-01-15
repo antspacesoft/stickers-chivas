@@ -1,0 +1,30 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.chivas",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"worldcup2022MEXgol",
+         "name":"México GOL",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022animados",
+         "name":"Gol Animados (3)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"gola1",
+         "name":"Gol Animados (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"gola2",
+         "name":"Gol Animados (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      }
+   ]
+}
