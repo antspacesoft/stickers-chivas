@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2023f8a",
+         "name":"vs Pumas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"clausura2023f8b",
+         "name":"vs Pumas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"clausura2023f7",
          "name":"vs Tijuana",
          "animated_sticker_pack":false,
