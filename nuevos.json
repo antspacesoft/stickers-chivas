@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"logoa1",
+         "name":"Logo (1)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"logoa2",
+         "name":"Logo (2)",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"clausura2023f17",
          "name":"vs Mazatlan",
          "animated_sticker_pack":false,
