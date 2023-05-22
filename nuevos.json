@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2023s2a",
+         "name":"vs América (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"clausura2023s2b",
+         "name":"vs América (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"clausura2023s2c",
+         "name":"vs América (3)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"clausura2023previaclasico",
          "name":"Previa Clásico",
          "animated_sticker_pack":false,
