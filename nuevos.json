@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kitapertura23a",
+         "name":"Jersey Apertura 23",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"clausura2023pf2",
          "name":"vs Tigres (1)",
          "animated_sticker_pack":false,
