@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2023f12",
+         "name":"vs Atlas",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"apertura2023f10",
          "name":"vs Toluca",
          "animated_sticker_pack":false,
