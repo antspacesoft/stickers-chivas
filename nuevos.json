@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2024f6",
+         "name":"vs Juarez",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"championscup2024f16a",
          "name":"vs Forge FC",
          "animated_sticker_pack":false,
