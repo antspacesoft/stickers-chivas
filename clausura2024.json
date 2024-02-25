@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2024f8a",
+         "name":"vs U.N.A.M Pumas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"clausura2024f8b",
+         "name":"vs U.N.A.M Pumas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"clausura2024f7",
          "name":"vs Mazatlan",
          "animated_sticker_pack":false,
