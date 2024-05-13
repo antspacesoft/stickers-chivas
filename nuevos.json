@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"chivasanimadostoon",
+         "name":"Toons Animados",
+         "animated_sticker_pack":true,
+         "stickers":"18"
+      },
+      {
+         "identifier":"chivastoon1",
+         "name":"Chivas Toons (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"chivastoon2",
+         "name":"Chivas Toons (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"clausura2024cf1",
          "name":"vs Atlas",
          "animated_sticker_pack":false,
