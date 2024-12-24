@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"navidad2",
+         "name":"Feliz Navidad (2)",
+         "animated_sticker_pack":true,
+         "stickers":"5"
+      },
+      {
+         "identifier":"navidad1",
+         "name":"Feliz Navidad",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"apertura2024f16",
          "name":"vs Santos Laguna",
          "animated_sticker_pack":false,
