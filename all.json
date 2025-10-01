@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"chivajoje1",
+         "name":"Chiva Animado (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"chivajoje2",
+         "name":"Chiva Animado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },          
+      {
          "identifier":"apertura2025f11",
          "name":"vs Puebla",
          "animated_sticker_pack":false,
