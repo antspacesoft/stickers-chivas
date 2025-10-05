@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gola3",
+         "name":"Gol Animado (3)",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },           
+      {
          "identifier":"chivajoje1",
          "name":"Chiva Animado (1)",
          "animated_sticker_pack":true,
