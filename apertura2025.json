@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2025f13a",
+         "name":"vs Mazatlan (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"apertura2025f13b",
+         "name":"vs Mazatlan (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },         
+      {
          "identifier":"apertura2025f12",
          "name":"vs Pumas",
          "animated_sticker_pack":false,
