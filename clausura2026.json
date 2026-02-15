@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2026f6",
+         "name":"vs Club América",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"clausura2026f5",
          "name":"vs Mazatlán",
          "animated_sticker_pack":false,

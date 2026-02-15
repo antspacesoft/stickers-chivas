@@ -2,7 +2,13 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.chivas",
    "ios_app_store_link":"",
    "sticker_packs":[
-        {
+      {
+         "identifier":"clausura2026f6",
+         "name":"vs Club América",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"sanvalentin",
          "name":"San Valentin",
          "animated_sticker_pack":false,
@@ -878,7 +884,7 @@
          "animated_sticker_pack":false,
          "stickers":"14"
       },
-            {
+      {
          "identifier":"clausura2022f8",
          "name":"vs Pumas",
          "animated_sticker_pack":false,
@@ -980,7 +986,7 @@
          "animated_sticker_pack":false,
          "stickers":"25"
       },
-            {
+      {
          "identifier":"clausura2021f16",
          "name":"vs Atlas",
          "animated_sticker_pack":false,
