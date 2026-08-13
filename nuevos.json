@@ -3,12 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"leaguescup2026f3",
+         "name":"vs Seattle Sounders",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },      
+      {
          "identifier":"apertura2026f2",
          "name":"vs Juarez",
          "animated_sticker_pack":false,
          "stickers":"19"
       },
-       {
+      {
          "identifier":"worldcup2026mexicod",
          "name":"Vamos México(4)",
          "animated_sticker_pack":false,
